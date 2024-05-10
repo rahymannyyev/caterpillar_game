@@ -1,5 +1,3 @@
-# caterpillar_game
-Copy of "Snake" game, made in Java
+# Caterpillar to Butterfly Game
 
-Instead of Snake, we implemented a Caterpillar, who chases after aples and after certain goal, becomes butterfly.
-The area of game is surronded by spikes, representing natural barries for our game and Caterpillar.
+This project is a Java implementation of the classic Snake game, with a twist. Instead of controlling a snake, you'll be guiding a caterpillar through a garden, collecting apples and eventually transforming into a butterfly.
